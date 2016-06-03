@@ -1,18 +1,18 @@
-﻿/************************************************************************************************************************************
-
-                                            London Coding Club - An Introduction
-                                            
-1) C# Is a programming language; a way of communicating with a computer via 0's and 1's.
-     * Before, we just had C/C++, used to compile(translate) to the native code of the platform on which the application was written
-            * e.g. Write application on Windows 10 x86 processor -> Linux (won't work) | Windows 8 (won't work)
-     * C# compiles code to an Intermediate Language(IL). 
-        * IL is independent of platform and can be understood by any hardware architecture/operating system 
-          provided it is running Common Language Run-time(CLR)
-
-(2) Common Language Run-time (CLR)
-    * Interprets Intermediate Language(IL) and translates to Native Code(code readable by platform on which application is being run) 
-    
-************************************************************************************************************************************/
+﻿ /****************************************************************************************************************************************
+ *                                                                                                                                       *
+ *                                             London Coding Club - An Introduction                                                      *
+ *                                                                                                                                       *
+ * 1) C# Is a programming language; a way of communicating with a computer via 0's and 1's.                                              *
+ *      * Before, we just had C/C++, used to compile(translate) to the native code of the platform on which the application was written  *
+ *             * e.g. Write application on Windows 10 x86 processor -> Linux (won't work) | Windows 8 (won't work)                       *
+ *      * C# compiles code to an Intermediate Language(IL).                                                                              *
+ *         * IL is independent of platform and can be understood by any hardware architecture/operating system                           *
+ *           provided it is running Common Language Run-time(CLR)                                                                        *
+ *                                                                                                                                       *
+ * (2) Common Language Run-time (CLR)                                                                                                    *
+ *     * Interprets Intermediate Language(IL) and translates to Native Code(code readable by platform on which application is being run )*
+ *                                                                                                                                       *
+ * **************************************************************************************************************************************/
 
 //I've imported the System namespace from the .NET Framework. A namespace houses a collection of classes
 //and each class can contain attributes and methods. The System namespace contains classes fundamental
